@@ -20,6 +20,8 @@ None needed
 This app can be used to generate notes from groceries lists to homework assignments, and a plethora of handy usages for day to day tasks. 
 
 ## Screenshot of generated HTML
+![Screen Shot 2022-11-16 at 10 23 40 PM](https://user-images.githubusercontent.com/101304518/202371932-817706d3-3048-4710-8f5d-46c4db39f06b.png)
+![Screen Shot 2022-11-16 at 10 24 19 PM](https://user-images.githubusercontent.com/101304518/202372029-cca2e70c-103f-4e22-a7a6-99e77ba65416.png)
 
 ## License
 
